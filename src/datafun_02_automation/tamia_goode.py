@@ -1,6 +1,6 @@
 """app_yourname.py - Project script.
 
-Author: Your Name or Alias
+Author: Tamia Goode
 Date: 2026-01
 
 Practice key Python skills:
@@ -19,16 +19,7 @@ Practice key Python skills:
 OBS:
   This is your file to practice and customize.
   Find the TODO comments, and as you complete each task, remove the TODO note.
-  TODO: Make all your files start with your name or alias in the filename
 
-TODO: Change the Author line of the docstring above to your name or alias.
-
-TODO: RENAME this file from app_yourname.py to something
-      that includes your name or alias, e.g., app_stellar_analytics.py.
-
-TODO: Update the opening line of the docstring above to match the new file name.
-
-TODO: Update the associated `uv run python` command in the README.md file.
 """
 
 
@@ -85,10 +76,7 @@ def write_text_file(path: Path, content: str) -> None:
 
 
 def create_files_from_numeric_range() -> None:
-    # TODO: Create a file for each year in the range 2023 to 2026 inclusive.
-    # TODO: Change the docstring, variable names, code, and log messages accordingly.
-    # TODO: Change the filename format to start with your name or alias.
-    # TODO: Customize the content of each created file.
+   
     """Create one file per quarter for a given inclusive quarter range.
 
     Arguments: None
